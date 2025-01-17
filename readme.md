@@ -3,12 +3,12 @@
 A modern, patient-focused website for a dental practice in Worcester, MA. Built with Elementor, WordPress, and PHP. 
 
 ## Desktop site
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop1.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop1.jpeg" width="500px">
 
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop2.jpeg" width="350px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop2.jpeg" width="500px">
 
 ## Mobile site
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.jpg" width="200px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.jpg" width="350px">
 
 
 ## 🦷 Features
