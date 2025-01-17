@@ -5,7 +5,7 @@ A modern, patient-focused website for a dental practice in Worcester, MA. Built 
 ## Desktop site
 <img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.worcesterdentistgroup.desktop1.jpeg" width="700px">
 
-<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.worcesterdentistgroup.desktop2.jpeg" width="500px">
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.worcesterdentistgroup.desktop2.jpeg" width="700px">
 
 ## Mobile site
 <img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/public/portfolio.webdentist.worcesterdentistgroup.jpg" width="350px">
