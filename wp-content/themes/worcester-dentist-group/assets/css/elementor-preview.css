@@ -1,0 +1,39 @@
+/* Elementor Preview Styles */
+
+/* Preview-specific container styles */
+.elementor-editor-active .elementor-section.elementor-section-boxed > .elementor-container {
+    outline: 1px dashed rgba(0,0,0,0.1);
+}
+
+/* Preview-specific widget styles */
+.elementor-editor-active .elementor-widget {
+    transition: all 0.2s ease;
+}
+
+.elementor-editor-active .elementor-widget:hover {
+    outline: 1px solid rgba(0,120,215,0.3);
+    background: rgba(0,120,215,0.02);
+}
+
+/* Preview-specific button styles */
+.elementor-editor-active .elementor-button {
+    cursor: pointer;
+}
+
+/* Preview-specific typography styles */
+.elementor-editor-active .elementor-widget-heading .elementor-heading-title {
+    background: rgba(0,120,215,0.03);
+    padding: 5px;
+}
+
+/* Preview helper classes */
+.elementor-editor-active .elementor-element.preview-hidden {
+    opacity: 0.5;
+}
+
+/* Preview responsive indicators */
+.elementor-editor-active .elementor-hidden-desktop,
+.elementor-editor-active .elementor-hidden-tablet,
+.elementor-editor-active .elementor-hidden-mobile {
+    outline: 2px dashed #e52600;
+}
