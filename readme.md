@@ -1,7 +1,15 @@
  # Client Website - Worcester Dentist Group 
-![](https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.jpg)
 
-A modern, patient-focused website for a dental practice in Worcester, MA. Built with Elementor, WordPress, and PHP.
+A modern, patient-focused website for a dental practice in Worcester, MA. Built with Elementor, WordPress, and PHP. 
+
+## Desktop site
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop1.jpg" width="350px">
+
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.desktop2jpg" width="350px">
+
+## Mobile site
+<img src="https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.jpg" width="200px">
+
 
 ## 🦷 Features
 
