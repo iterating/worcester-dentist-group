@@ -1,6 +1,7 @@
- # Worcester Dentist Group - Dental Smile LA
-![](https://github.com/iterating/worcester-dentist-group/blob/master/portfolio.webdentist.worcesterdentistgroup.jpg?raw=true)
-A modern, patient-focused website for our dental practice in Worcester, Massachusetts. We provide comprehensive dental care with a focus on patient comfort and cutting-edge technology.
+ # Client Website - Worcester Dentist Group 
+![](https://raw.githubusercontent.com/iterating/worcester-dentist-group/refs/heads/main/portfolio.webdentist.worcesterdentistgroup.jpg)
+
+A modern, patient-focused website for a dental practice in Worcester, MA. Built with Elementor, WordPress, and PHP.
 
 ## 🦷 Features
 
@@ -14,6 +15,7 @@ A modern, patient-focused website for our dental practice in Worcester, Massachu
 - Virtual office tour
 
 ## 🛠️ Technologies
+
 - Customizable and responsive design
 - Elementor page builder
 - WordPress custom theme (Worcester Dentist Group)
